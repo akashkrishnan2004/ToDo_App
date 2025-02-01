@@ -87,3 +87,9 @@ p {
   /* margin-top: 40px; */
   border-radius: .5rem;
 }
+
+@media (max-width: 468px) {
+    input {
+        width: 55%;
+    }
+} 
